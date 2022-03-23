@@ -17,4 +17,4 @@ sudo ln -s jpgraph-3.0.7 jpgraph
 sudo apt-get install ttf-mscorefonts-installer
 
 # download Carbon from git
-
+sudo cp -r /work/git/web/Carbon/src/Carbon /usr/share/php/
