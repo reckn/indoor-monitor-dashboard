@@ -1,5 +1,6 @@
 indoor-monitor-dashboard
 ==============================
+Utilize Spark Core and DHT22 to monitor the temperature and humidity of indoor area. 
 
 ### Directories
 |Directory           |Description                                                      |
