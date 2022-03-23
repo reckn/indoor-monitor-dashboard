@@ -1,7 +1,5 @@
-temperature-humidity-dashboard
+indoor-monitor-dashboard
 ==============================
-
-LAMP based Temperature and Humidity Web Dashboard for the Spark Core
 
 ### Directories
 |Directory           |Description                                                      |
